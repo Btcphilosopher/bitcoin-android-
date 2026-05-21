@@ -1,0 +1,6 @@
+{
+  "name": "Lightning Wallet",
+  "description": "An elegant, fast, and ergonomic Bitcoin Lightning wallet with offline state persistence, channel liquidity visualization, and tactile swipe gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

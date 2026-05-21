@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean Bitcoin Gold Outer Circle (Inner 66dp Safe Area) -->
+    <path
+        android:pathData="M 54 24 C 70.57 24, 84 37.43, 84 54 C 84 70.57, 70.57 84, 54 84 C 37.43 84, 24 70.57, 24 54 C 24 37.43, 37.43 24, 54 24 Z"
+        android:strokeWidth="4"
+        android:strokeColor="#FF9900"
+        android:fillColor="#151210" />
+    
+    <!-- Bold Lightning Bolt aligned perfectly inside the circular coin badge -->
+    <path
+        android:pathData="M59 31 L41 53 L51 53 L47 77 L67 49 L55 49 Z"
+        android:fillColor="#FFC107"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FFFFFF" />
+</vector>
